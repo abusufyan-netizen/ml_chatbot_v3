@@ -1,0 +1,10 @@
+# Core ML Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visualization & Image Processing
+matplotlib>=3.8.0
+Pillow>=10.0.0
+
+# Utility libraries
+numpy>=1.24.0
